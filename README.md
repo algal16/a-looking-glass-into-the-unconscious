@@ -5,5 +5,5 @@ The long way from K.G.Jung to contemporary polygraphists. The progress is eviden
 
 This site was built using [C.G. JUNG](http://www.delfi.lv).
 
-![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/CGJungmaz.jpg)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/CGJungmaza.jpg)
 a
