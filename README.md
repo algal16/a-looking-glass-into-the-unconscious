@@ -16,3 +16,10 @@ Deviations of the mirror were noted through a telescope upon a scale three meter
 Note that this was the time of pre-electronics and pre-computers. But we have some records of this time from the book of Jung.
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/jungagrafiks.png)
+
+Let's leave this for a moment and see what happened when the electronics came in. Look picture from Wikipedia (Electrodermal activity).
+
+
+And a record from a modern polygraph:
+
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edrpoligrafws.png)
