@@ -24,3 +24,7 @@ Let's leave this for a moment and see what happened when the electronics came in
 And a record from a modern polygraph:
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edrpoligrafws.png)
+
+Pretty similar, isn't it? Which is more accurate, which is more in line with reality? It turns out that it is not so easy to answer unequivocally to such a question. You have to try to understand the essence of things. But first - another record - now from my project using Arduino and Processing.
+
+
