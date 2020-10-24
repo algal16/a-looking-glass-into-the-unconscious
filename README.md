@@ -27,6 +27,6 @@ And a record from a modern polygraph:
 
 Pretty similar, isn't it? Which is more accurate, which is more in line with reality? It turns out that it is not so easy to answer unequivocally to such a question. You have to try to understand the essence of things. But first - another record - now from my project using Arduino and Processing.
 
-![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edr500msekpamatieraksts001.jpg)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edr500msekpamatieraksts001.png)
 
 
