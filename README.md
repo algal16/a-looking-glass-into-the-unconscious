@@ -63,7 +63,7 @@ At this point, the question becomes very specific - what exactly do we want to r
 
 Sweating can be measured in many ways, but the most common is measuring skin resistance or conductivity. We stick to it. And therefore, although very briefly, it is necessary to understand specifically - which processes in the sweat gland function correspond to the EDA curve.
 
-![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/sweatglabd.png)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/sweatgland.png)
 
 *Fig.8. Human Skin (Wikipedia)*
 
