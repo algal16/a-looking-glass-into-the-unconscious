@@ -29,11 +29,13 @@ Pretty similar, isn't it? Which is more accurate, which is more in line with rea
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-28522.png)
 
+*Fig.6. Electrodermal Activity (my graph)*
+
 Again a similar, only as if clearer and more definite image. And now we will deal with the substance in great detail, and yet briefly.
 
 First of all, the basic question arises. Is any of these 4 (Fig.3 - Fig. 6) pictures real? Does at least one of these pictures show what electrical processes take place on the skin under the electrodes? The answer is: clear and definite – no! And then, do we know in theory, and can we record practical what's going on there? The answer is – yes! The following picture shows my raw registration of EDA using an Arduino.
 
-![Fig.7. Raw registration of EDA (Arduino, Processing)](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0173.jpg)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0173.jpg)
 
 *Fig.7. Raw registration of EDA (Arduino, Processing*
 
