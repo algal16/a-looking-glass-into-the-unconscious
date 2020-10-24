@@ -63,6 +63,17 @@ At this point, the question becomes very specific - what exactly do we want to r
 
 Sweating can be measured in many ways, but the most common is measuring skin resistance or conductivity. We stick to it. And therefore, although very briefly, it is necessary to understand specifically - which processes in the sweat gland function correspond to the EDA curve.
 
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/sweatglabd.png)
+
+*Fig.8. Human Skin (Wikipedia)*
+
+The skin is thick, but only its top - the stratum corneum has a high electrical resistance. But it is penetrated by the sweat glands. The resistance of the horn layer itself practically does not change as result of temporary emotional changes that interest us. The sweat glands work discretely - sweat is not distributed in an even flow, but in the form of individual portions, which take place synchronously in all the glands of the region.
+
+The formation of one portion of sweat and the subsequent its discharge through the sweat gland outlet is electrically reflected as a single galvanic reaction of the skin (specific component of Electrodermal Activity (EDA)). The expansion of the outlet opening causes a sharp drop in resistance, followed by a slow, exponential narrowing of the channel, which has little to do with the processes of interest to us - it depends almost entirely on the elasticity of the skin. This development of the change in electrical resistance over time (my attached graph, Fig. 6) is of such a characteristic shape, and it cannot be confused with anything else, it is easily visible to the naked eye.
+
+And now - a very fundamental methodological question - how many measurements (reference points) should we have so that we can perceive this process optimally and adequately with our own eyes and understanding, in order to get the right information about process of our interest. If we are not particularly interested in the so-called latent period at the moment, then practice shows that it is quite enough for us to postpone the results graphically once every 200 - 1000 ms, i.e from 1 - 5 times per second. This is confirmed by virtually most scientific research in this field.
+
+With a simple program, by means of Arduino Uno, we can get up to 4000 measurements per second, so - 800 measurements in 200 ms and 2000 measurements in 0.5 sec. And this proves to be quite sufficient to obtain a very high quality EDA record, and could be used as a basis for many different deeper self-knowledge and self development programs, both portable devices and computer screen projection programs with Processing. My range of such programs reaches dozens.
 
 
 
