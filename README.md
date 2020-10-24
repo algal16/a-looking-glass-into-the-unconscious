@@ -19,6 +19,7 @@ Note that this was the time of pre-electronics and pre-computers. But we have so
 
 Let's leave this for a moment and see what happened when the electronics came in. Look picture from Wikipedia (Electrodermal activity).
 
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edrwiki.png)
 
 And a record from a modern polygraph:
 
