@@ -35,5 +35,7 @@ First of all, the basic question arises. Is any of these 4 (Fig.3 - Fig. 6) pict
 
 ![Fig.7. Raw registration of EDA (Arduino, Processing)](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0173.jpg)
 
+*Fig.7. Raw registration of EDA (Arduino, Processing*
+
 
 
