@@ -4,4 +4,4 @@ The long way from K.G.Jung to contemporary polygraphists. The progress is eviden
 
 This site was built using [DELFI](http://www.delfi.lv).
 
-![Image of Jung](https://github.com/algal16/CGJung.jpg)
+![Image of Jung](https://github.com/algal16/alookingglassintotheunconscies/CGJung.jpg)
