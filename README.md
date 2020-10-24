@@ -3,3 +3,5 @@ The long way from K.G.Jung to contemporary polygraphists. The progress is eviden
 
 
 This site was built using [DELFI](http://www.delfi.lv).
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
