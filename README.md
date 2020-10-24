@@ -11,4 +11,4 @@ The scientific study of Electrodermal Activity (EDA) began in the early 1900-s. 
 
 What was the methodology, and what was the hardware that Jung and his followers were working on? The first to discover the influence of mental conditions on the galvanometer was Professor Tarchanoff, who published a paper in Pflugers Archiv fur Physiologie, 1890, entitled “Galvanic Phenomena in the Human Skin in Connection with Irritation of the Sensory Organs and with Various Forms of Psychic Activity”. He employed tubular unpolarizable clay electrodes, connected with the skin by means of hygroscopic cotton pads, 10 to 15 cm long, saturated with saline solution. These are attached to a Meissner and Meyerstein galvanometer.
 
-
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/mirror_galvanometer,_1858,_(maza).jpg)
