@@ -33,4 +33,7 @@ Again a similar, only as if clearer and more definite image. And now we will dea
 
 First of all, the basic question arises. Is any of these 4 (Fig.3 - Fig. 6) pictures real? Does at least one of these pictures show what electrical processes take place on the skin under the electrodes? The answer is: clear and definite – no! And then, do we know in theory, and can we record practical what's going on there? The answer is – yes! The following picture shows my raw registration of EDA using an Arduino.
 
+![Fig.7. Raw registration of EDA (Arduino, Processing)](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0173.png)
+
+
 
