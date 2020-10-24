@@ -14,3 +14,5 @@ What was the methodology, and what was the hardware that Jung and his followers 
 Deviations of the mirror were noted through a telescope upon a scale three meters distant from the galvanometer. The scale was divided on each side of the zero point into 50 cm, and these again into mm. The galvanometer was so sensitive that a nerve-stream of a frog sciatic nerve deflected the mirror so much that all the divisions on the scale were passed over. The electrodes were applied at various times to different portions of the body, such as the hands and fingers, feet and toes, the face, the nose, the ears and the back.
 
 Note that this was the time of pre-electronics and pre-computers. But we have some records of this time from the book of Jung.
+
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/jungagrafiks.png)
