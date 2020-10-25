@@ -92,6 +92,6 @@ As a demonstration that in this way the EDA curve is completely removed from the
 
 Technical recommendation. These images (Fig. 7, 9-11) are obtained by transferring non-integrated data to a computer, i.e. each Arduino measurement is transferred. This is not really done wisely, and here this technology is used only to obtain these demonstration images. In real work, this is done in different way - the primary data processing is performed with Arduino, and the already processed data are sent to the computer - once every 200-1000 ms. It is happening better, safer, cleaner. It works on many my programs, some insights of which can be found in the accompanying pictures.
 
-![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-43686.png)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-42686.png)
 
 *Fig.11. Graphically seperated active (red) and pasive (green) EDA phases *
