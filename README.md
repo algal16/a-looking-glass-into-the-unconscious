@@ -94,4 +94,25 @@ Technical recommendation. These images (Fig. 7, 9-11) are obtained by transferri
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-42686.png)
 
-*Fig.11. Graphically seperated active (red) and pasive (green) EDA phases *
+*Fig.12. Graphically seperated active (red) and pasive (green) EDA phases*
+
+For example, with the help of the program (Fig. 12) we can easily observe these active and passive phases graphically - red bars indicate the active phase, green - passive. The more stress, the more red, and consequently fewer green bars.
+
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-4620.png)
+
+*Fig.13. Internal Peace Index - a dynamic numerical relationship between the active and pasive phase of the EDA*
+
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-1544.png)
+
+*Fig.14. Internal Peace Index as Biofeedback Tool*
+
+Such phase separation open possibility to divide the whole measurement time into two parts - active and passive, allowed to create several special stress resistance cognition and training programs (Fig.13, 14).
+
+In conclusion, I would certainly like to say that we are left out of the discussion with many physical, biophysical and psychophysiological details. This is done so that this description does not become unreadable. Note that we only touched on the very surface of the process. The electrical phenomena of the skin are actually very versatile, profound and intriguing. If there are such conditions, I will tell a lot about it and demonstrate it in other projects.
+
+Due to the volume, I also will not continue the analysis: from Jung to the present day - whether something important has not be lost. Answer: is lost, and this is clearly demonstrated by facts, analysis of scientific works, measurements, calculations. I hope to do this gradually in future projects.
+
+To show that the above considerations are based on reality, I will show one concrete apparatus with a specific program:
+
+APPARATUS AND CLASSIC, NOT TOO SENSITIVE BUT VERY STABLE EDA PROGRAM
+
