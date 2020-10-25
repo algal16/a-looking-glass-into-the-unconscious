@@ -88,3 +88,10 @@ With a simple program, by means of Arduino Uno, we can get up to 4000 measuremen
 
 *Fig.11. Raw and integrated EDA (Example 3)*
 
+As a demonstration that in this way the EDA curve is completely removed from the harmful layers, I will show some images. The distance between the red points of the integral curve is 0.5 sec. You can clearly see and count 25 oscillations between the 2 red dots, which is natural, because the main part of this harmful induction is the interference caused by the electrical network, and that is - 50 Hz.
+
+Technical recommendation. These images (Fig. 7, 9-11) are obtained by transferring non-integrated data to a computer, i.e. each Arduino measurement is transferred. This is not really done wisely, and here this technology is used only to obtain these demonstration images. In real work, this is done in different way - the primary data processing is performed with Arduino, and the already processed data are sent to the computer - once every 200-1000 ms. It is happening better, safer, cleaner. It works on many my programs, some insights of which can be found in the accompanying pictures.
+
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-1463.jpg)
+
+*Fig.11. Graphically seperated active (red) and pasive (green) EDA phases *
