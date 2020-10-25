@@ -116,3 +116,41 @@ To show that the above considerations are based on reality, I will show one conc
 
 APPARATUS AND CLASSIC, NOT TOO SENSITIVE BUT VERY STABLE EDA PROGRAM
 
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/algal16c.png)
+
+*Fig.15. ALGAL16 - Equipment for registration of some Psychophysiological Reactions, including EDA*
+
+The device has a standard plastic housing with two electrodes on the upper surface on which to place two fingers of one hand. There are 10 LEDs, five red, and five yellow on the upper surface. That is all that is relevant to this particular project. Since this device is intended for the implementation of many similar programs, it contains a few more switches, in addition to inputs, outputs, etc., which I will not specifically describe here.
+The program is irreplaceable with its classicism, very high reliability and stability. Therefore, it does not show details, very subtle tensions. You could say - ALGAL16 portable program gold fund.
+
+The readings change once every ten seconds. The program calculates the average EDA level every second and always remembers the previous second EDA data. If the current second value (skin conductivity) is higher than the previous second value, then a spontaneous EDA is considered to be fixed in this second. The program counts the number of spontaneous reactions in 10 seconds period and shows it as follows: if a spontaneous EDA is fixed for all 10 seconds, no light comes on. If this spontaneous EDA is detected for 1 in 10 seconds - nine lights are on, so all five are yellow and the left four are green. And so on. Finally, if there is no spontaneous reaction in a single second, then all ten lights are on - this is the maximum quiet state that can be recorded according to this ALGAL16 program.
+
+CAUTION!
+
+Both theoretical materials and equipment are created for self-education purposes only. They are not intended for diagnostic or therapeutic purposes, and cannot be used on other people, everyone can try it only on themselves, taking all possible risks. If someone were interested in building a more widely applicable and certifiable device on this basis, then I would be interested in different types of cooperation. For the time being, full copyright is retained.
+
+THE SOFTWARE AND HARDWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE AND HARDWARE.
+
+RECOMMENDED READINGS
+
+Psycho-physical investigations with the galvanometer and pneumograph in normal and insane individuals. Brain, Part II, 1907, by F. Peterson, M.D., Clinical Professor of Psychiatry, Columbia University, New York, and C. Jung, M.D., Privat-Docent in Psychiatry at Zurich, (From the Psychiatric Clinic at Zurich.), pp. 154-218.
+
+LV Patent 12840 B “A. Aldersons. Ādas elektriskās pretestības noteikšanas paņēmiens” (Method for determination of electrical resistance of the skin), 20.03.2003.g.;
+
+Boucsein W. (1992) . Electrodermal Activity. New York, NY: Plenum Press.
+
+Fowles,D. C. (1986). The eccrine system and electrodermal activity. In M. G.H. Coles, E. Donchin, & S. W. Porges, (Eds) Psychophysiology.Systems, processes and applications, (51-96). New York, NY: GuilfordPress.
+
+Venables,P.H., & Christie, M.J., (1973). Mechanisms, instrumentation,recording techniques, and quantification of responses. In W.F.Prokasy & D.C. Raskin (Eds.), Electrodermal Activity inPsychophysiological Research (1-124). New York, NY: AcademicPress.
+
+Mark Handler, Raymond Nelson, Donald Krapohl, and Charles R. Honts. An EDA Primer for Polygraph Examiners. Polygraph,2010, 39(2), pp. 68-108.
+
+A. Buikis, A. Aldersons. “In depth mathematical algorithm for heart rate variability analysis”. Journal of Multidisciplinary Engineering Science Studies, 2017. Vol. 3, Issue 1, p. 1262-1269.
+
+A. Aldersons, A. Buikis. Mathematical algorithm for heart rate variability analysis. Recent Advances in Applied & Biomedical Informatics and Computational Engineering in System Applications. 4th WSEAS International Conference on Biomedical Electronics and Biomedical Informatics (BEBI’11). Florence, Italy, August 23-25, 2011. CD, ISBN: 978-1-61804-028-2. 6 lpp.
+
+A. Aldersons (1989). Psychophysiological Reactions of Heat Regulation (in Russian). Riga, Zinatne, 136 p..
+
+• A. Aldersons (1985). Mechanisms of Galvanic Skin Reactions (in Russian). Riga, Zinatne, 131 p.
+
+• A. Aldersons (1985). Electrical Properties of Skin (in Latvian). Riga, Zinatne, 64 p.
