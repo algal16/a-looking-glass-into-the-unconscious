@@ -1,8 +1,6 @@
 # a-looking-glass-into-the-unconscious
 The long way from K.G.Jung to contemporary polygraphists. The progress is evident, but maybe something important and essential is lost? Let's try to be clear and sort things out with Arduino. ***"Aha, a looking glass into the unconscious!" Carl Jung.***  If you have interest, Arduino board, some cheap components, patience to understand several simple but fundamental regularities, then you have the opportunity to have at your disposal no less impressive equipment and method, as Jung had.  THE STORY IS ABOUT SERIOUS LOOK TO ELECTRODERMAL ACTIVITY OF HUMAN SKIN – THE MOST POPULAR PSYCHOPHYSIOLOGICAL REACTION DURING MORE THAN 100 YEARS.
 
-This site was built using [DELFI](http://www.delfi.lv).
-
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/CGJungmaza.jpg)
 
 The scientific study of Electrodermal Activity (EDA) began in the early 1900-s. One of the first references to the use of EDA instruments in psychoanalysis is the book by C. G. Jung entitled Studies in Word Analysis, published in 1906. Jung and his colleagues used the galvanometer to evaluate the emotional sensitivities of patients to lists of words during word association. Jung was so impressed with EDA monitoring, he allegedly cried, "Aha, a looking glass into the unconscious!" Jung described his use of the device in counseling in his book, and such use has continued with various practitioners.
@@ -124,6 +122,7 @@ APPARATUS AND CLASSIC, NOT TOO SENSITIVE BUT VERY STABLE EDA PROGRAM
 
 *Fig.16. Schematics for "A looking glass to unconscious"*
 
+[Arduino Program for "A looking glass to unconscious" (ALGPORT006)](https://github.com/algal16/alookingglassintotheunconscious/blob/main/algport006).
 
 The device has a standard plastic housing with two electrodes on the upper surface on which to place two fingers of one hand. There are 10 LEDs, five red, and five yellow on the upper surface. That is all that is relevant to this particular project. Since this device is intended for the implementation of many similar programs, it contains a few more switches, in addition to inputs, outputs, etc., which I will not specifically describe here.
 The program is irreplaceable with its classicism, very high reliability and stability. Therefore, it does not show details, very subtle tensions. You could say - ALGAL16 portable program gold fund.
