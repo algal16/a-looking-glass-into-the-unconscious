@@ -80,7 +80,7 @@ With a simple program, by means of Arduino Uno, we can get up to 4000 measuremen
 
 *Fig.9. Raw and integrated EDA (Example 1)*
 
-![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0182.jpg)
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-1078.jpg)
 
 *Fig.10. Raw and integrated EDA (Example 2)*
 
