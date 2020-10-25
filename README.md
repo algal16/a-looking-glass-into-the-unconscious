@@ -124,10 +124,6 @@ APPARATUS AND CLASSIC, NOT TOO SENSITIVE BUT VERY STABLE EDA PROGRAM
 
 *Arduino Program for "A looking glass into the unconscious" - algport006.ino*
 
-*Licence CC-BY-NC-SA-3.0*
-
-*Alberts Aldersons, algal16@inbox.lv*
-
 The device has a standard plastic housing with two electrodes on the upper surface on which to place two fingers of one hand. There are 10 LEDs, five red, and five yellow on the upper surface. That is all that is relevant to this particular project. Since this device is intended for the implementation of many similar programs, it contains a few more switches, in addition to inputs, outputs, etc., which I will not specifically describe here.
 The program is irreplaceable with its classicism, very high reliability and stability. Therefore, it does not show details, very subtle tensions. You could say - ALGAL16 portable program gold fund.
 
