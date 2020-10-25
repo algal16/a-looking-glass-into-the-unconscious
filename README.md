@@ -76,5 +76,8 @@ And now - a very fundamental methodological question - how many measurements (re
 With a simple program, by means of Arduino Uno, we can get up to 4000 measurements per second, so - 800 measurements in 200 ms and 2000 measurements in 0.5 sec. And this proves to be quite sufficient to obtain a very high quality EDA record, and could be used as a basis for many different deeper self-knowledge and self development programs, both portable devices and computer screen projection programs with Processing. My range of such programs reaches dozens.
 
 
+![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/output-0182.jpg)
+
+*Fig.9. Raw and integrated EDA (Example 1)*
 
 
