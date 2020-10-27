@@ -57,7 +57,7 @@ skaits=skaits+1;
 summa=summa+tagad;
 }
 while (millis() - laiks0 <1000);
-videjais = summa*100/skaits;
+videjais = summa/skaits;
 Serial.println (int(videjais));
 iepr1=tagad1;
 tagad1=videjais;
