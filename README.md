@@ -1,13 +1,17 @@
 # a-looking-glass-into-the-unconscious
-The long way from K.G.Jung to contemporary polygraphists. The progress is evident, but maybe something important and essential is lost? Let's try to be clear and sort things out with Arduino. ***"Aha, a looking glass into the unconscious!" Carl Jung.***  If you have interest, Arduino board, some cheap components, patience to understand several simple but fundamental regularities, then you have the opportunity to have at your disposal no less impressive equipment and method, as Jung had.  THE STORY IS ABOUT SERIOUS LOOK TO ELECTRODERMAL ACTIVITY OF HUMAN SKIN – THE MOST POPULAR PSYCHOPHYSIOLOGICAL REACTION DURING MORE THAN 100 YEARS.
+The long way from K.G.Jung to contemporary polygraphists. The progress is evident, but maybe something important and essential is lost? Let's try to be clear and sort things out with Arduino. If you have interest, Arduino board, some cheap components, patience to understand several simple but fundamental regularities, then you have the opportunity to have at your disposal no less impressive equipment and method, as Jung had.  THE STORY IS ABOUT SERIOUS LOOK TO ELECTRODERMAL ACTIVITY OF HUMAN SKIN – THE MOST POPULAR PSYCHOPHYSIOLOGICAL REACTION DURING MORE THAN 100 YEARS.
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/CGJungmaza.jpg)
 
-The scientific study of Electrodermal Activity (EDA) began in the early 1900-s. One of the first references to the use of EDA instruments in psychoanalysis is the book by C. G. Jung entitled Studies in Word Analysis, published in 1906. Jung and his colleagues used the galvanometer to evaluate the emotional sensitivities of patients to lists of words during word association. Jung was so impressed with EDA monitoring, he allegedly cried, "Aha, a looking glass into the unconscious!" Jung described his use of the device in counseling in his book, and such use has continued with various practitioners.
+*Fig.1. C.G.Jung*
+
+The scientific study of Electrodermal Activity (EDA) began in the early 1900-s. One of the first references to the use of EDA instruments in psychoanalysis is the book by C. G. Jung entitled Studies in Word Analysis, published in 1906. Jung and his colleagues used the galvanometer to evaluate the emotional sensitivities of patients to lists of words during word association. Jung was so impressed with EDA monitoring, he allegedly cried, *"Aha, a looking glass into the unconscious!"* Jung described his use of the device in counseling in his book, and such use has continued with various practitioners.
 
 What was the methodology, and what was the hardware that Jung and his followers were working on? The first to discover the influence of mental conditions on the galvanometer was Professor Tarchanoff, who published a paper in Pflugers Archiv fur Physiologie, 1890, entitled “Galvanic Phenomena in the Human Skin in Connection with Irritation of the Sensory Organs and with Various Forms of Psychic Activity”. He employed tubular unpolarizable clay electrodes, connected with the skin by means of hygroscopic cotton pads, 10 to 15 cm long, saturated with saline solution. These are attached to a Meissner and Meyerstein galvanometer.
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/mirrorgalv.jpg)
+
+*Fig.2. Mirror Galvanometer, 1858*
 
 Deviations of the mirror were noted through a telescope upon a scale three meters distant from the galvanometer. The scale was divided on each side of the zero point into 50 cm, and these again into mm. The galvanometer was so sensitive that a nerve-stream of a frog sciatic nerve deflected the mirror so much that all the divisions on the scale were passed over. The electrodes were applied at various times to different portions of the body, such as the hands and fingers, feet and toes, the face, the nose, the ears and the back.
 
@@ -15,13 +19,19 @@ Note that this was the time of pre-electronics and pre-computers. But we have so
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/jungagrafiks.png)
 
+*Fig.3. EDA graph from Jung book*
+
 Let's leave this for a moment and see what happened when the electronics came in. Look picture from Wikipedia (Electrodermal activity).
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edrwiki.png)
 
+*Fig.4. Wikipedia - Electrodermal Activity*
+
 And a record from a modern polygraph:
 
 ![](https://github.com/algal16/alookingglassintotheunconscious/blob/main/edrpoligrafws.png)
+
+*Fig.5. Electrodermal Activity in Polygraph*
 
 Pretty similar, isn't it? Which is more accurate, which is more in line with reality? It turns out that it is not so easy to answer unequivocally to such a question. You have to try to understand the essence of things. But first - another record - now from my project using Arduino and Processing.
 
@@ -129,11 +139,7 @@ The program is irreplaceable with its classicism, very high reliability and stab
 
 The readings change once every ten seconds. The program calculates the average EDA level every second and always remembers the previous second EDA data. If the current second value (skin conductivity) is higher than the previous second value, then a spontaneous EDA is considered to be fixed in this second. The program counts the number of spontaneous reactions in 10 seconds period and shows it as follows: if a spontaneous EDA is fixed for all 10 seconds, no light comes on. If this spontaneous EDA is detected for 1 in 10 seconds - nine lights are on, so all five are yellow and the left four are green. And so on. Finally, if there is no spontaneous reaction in a single second, then all ten lights are on - this is the maximum quiet state that can be recorded according to this ALGAL16 program.
 
-CAUTION!
-
-Both theoretical materials and equipment are created for self-education purposes only. They are not intended for diagnostic or therapeutic purposes, and cannot be used on other people, everyone can try it only on themselves, taking all possible risks. If someone were interested in building a more widely applicable and certifiable device on this basis, then I would be interested in different types of cooperation. For the time being, full copyright is retained.
-
-THE SOFTWARE AND HARDWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE AND HARDWARE.
+*CAUTION! Both theoretical materials and equipment are created for self-education purposes only. They are not intended for diagnostic or therapeutic purposes.*
 
 RECOMMENDED READINGS
 
